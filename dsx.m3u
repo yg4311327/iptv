@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1 ,翡翠台第一声道
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 ,翡翠台第一声道,
+http://iptv.tvfix.org/hls/jade_v.m3u8
+#EXTINF:-1 ,翡翠台第一声道
+http://iptv.tvfix.org/hls/jade_s1.m3u8
+#EXTINF:-1 ,翡翠台第一声道
+http://iptv.tvfix.org/hls/jade_a1.m3u8
+#EXTINF:-1 ,翡翠台第二声道
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 ,翡翠台第二声道
+http://iptv.tvfix.org/hls/jade_s2.m3u8
+#EXTINF:-1 ,翡翠台第二声道
+http://iptv.tvfix.org/hls/jade_a2.m3u8
+#EXTINF:-1 ,翡翠台广东版
+http://iptv.tvfix.org/hls/jadegd.m3u8
+#EXTINF:-1 ,翡翠台海外版
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 ,翡翠台海外版
+http://iptv.tvfix.org/hls/jadenhk_a1.m3u8
+#EXTINF:-1 ,翡翠台海外版
+http://iptv.tvfix.org/hls/jadenhk_v.m3u8
+#EXTINF:-1 ,翡翠台海外版
+http://iptv.tvfix.org/hls/jadenhk_s1.m3u8
+#EXTINF:-1 ,翡翠台海外版普通话
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 ,翡翠台海外版普通话
+http://iptv.tvfix.org/hls/jadenhk_s2.m3u8
+#EXTINF:-1 ,翡翠台海外版普通话
+http://iptv.tvfix.org/hls/jadenhk_a2.m3u8
+#EXTINF:-1 ,J2
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 ,J2
+http://iptv.tvfix.org/hls/j2_s1.m3u8
+#EXTINF:-1 ,J2
+http://iptv.tvfix.org/hls/j2_v.m3u8
+#EXTINF:-1 ,J2
+http://iptv.tvfix.org/hls/j2_a1.m3u8
+#EXTINF:-1 ,J2第二声道
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 ,J2第二声道
+http://iptv.tvfix.org/hls/j2_a2.m3u8
+#EXTINF:-1 ,无线新闻台
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 ,无线新闻台
+http://iptv.tvfix.org/hls/inews_v.m3u8
+#EXTINF:-1 ,无线新闻台
+http://iptv.tvfix.org/hls/inews_a1.m3u8
+#EXTINF:-1 ,明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 ,明珠台
+http://iptv.tvfix.org/hls/pearl_v.m3u8
+#EXTINF:-1 ,明珠台
+http://iptv.tvfix.org/hls/pearl_s1.m3u8
+#EXTINF:-1 ,明珠台
+http://iptv.tvfix.org/hls/pearl_a1.m3u8
+#EXTINF:-1 ,明珠台第二声道
+http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1 ,明珠台第二声道
+http://iptv.tvfix.org/hls/pearl_a2.m3u8
+#EXTINF:-1 ,无线财经资讯台
+http://iptv.tvfix.org/hls/finance_s1.m3u8
+#EXTINF:-1 ,无线财经资讯台
+http://iptv.tvfix.org/hls/finance_a1.m3u8
+#EXTINF:-1 ,无线财经资讯台第二声道
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1 ,无线财经资讯台第二声道
+http://iptv.tvfix.org/hls/finance_v.m3u8
+#EXTINF:-1 ,无线财经资讯台第二声道
+http://iptv.tvfix.org/hls/finance_s2.m3u8
+#EXTINF:-1 ,无线财经资讯台第二声道
+http://iptv.tvfix.org/hls/finance_a2.m3u8
+#EXTINF:-1 ,无线财经资讯台海外版
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 ,无线财经资讯台海外版
+http://iptv.tvfix.org/hls/financenhk_v.m3u8
+#EXTINF:-1 ,无线财经资讯台海外版
+http://iptv.tvfix.org/hls/financenhk_a1.m3u8
+#EXTINF:-1 ,Viutv
+http://iptv.tvfix.org/hls/viutv.m3u8
+#EXTINF:-1 ,Viutv
+http://iptv.tvfix.org/hls/viutv_v.m3u8
+#EXTINF:-1 ,Viutv
+http://iptv.tvfix.org/hls/viutv_a1.m3u8
+#EXTINF:-1 ,Viutv第二声道
+http://iptv.tvfix.org/hls/viutv2.m3u8
+#EXTINF:-1 ,Viutv第二声道
+http://iptv.tvfix.org/hls/viutv_a2.m3u8
+#EXTINF:-1 ,Viutv6
+http://iptv.tvfix.org/hkdtmb/96/index.m3u8
+#EXTINF:-1 ,Viutv6
+http://iptv.tvfix.org/hls/viutv6.m3u8
+#EXTINF:-1 ,RTHK31
+http://iptv.tvfix.org/hkdtmb/31/index.m3u8
+#EXTINF:-1 ,RTHK31
+http://iptv.tvfix.org/hls/rthk31.m3u8
+#EXTINF:-1 ,RTHK32
+http://iptv.tvfix.org/hkdtmb/32/index.m3u8
+#EXTINF:-1 ,RTHK32
+http://iptv.tvfix.org/hls/rthk32.m3u8
+#EXTINF:-1 ,香港国际财经台
+http://iptv.tvfix.org/hkdtmb/76/index.m3u8
+#EXTINF:-1 ,香港開电视
+http://iptv.tvfix.org/hls/hkibc.m3u8
+#EXTINF:-1 ,香港開电视
+http://iptv.tvfix.org/hls/opentv.m3u8
+#EXTINF:-1 ,tvbs亚洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 ,tvbs亚洲台
+http://iptv.tvfix.org/hls/tvbs_a1.m3u8
+#EXTINF:-1 ,tvbs亚洲台
+http://iptv.tvfix.org/hls/tvbs_v.m3u8
+#EXTINF:-1 ,tvbs新闻台
+http://iptv.tvfix.org/hls/tvbsnews_v.m3u8
+#EXTINF:-1 ,tvbs新闻台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 ,tvbs新闻台
+http://iptv.tvfix.org/hls/tvbsnews_a1.m3u8
+#EXTINF:-1 ,中天新闻
+http://iptv.tvfix.org/hls/ztxw.m3u8
+#EXTINF:-1 ,东森新闻
+http://iptv.tvfix.org/hls/dsxw.m3u8
+#EXTINF:-1 ,NHk综合
+http://iptv.tvfix.org/hls/nhkg_v.m3u8
+#EXTINF:-1 ,NHk综合
+http://iptv.tvfix.org/hls/nhkg.m3u8
+#EXTINF:-1 ,NHk综合
+http://iptv.tvfix.org/hls/nhkg_a1.m3u8
+#EXTINF:-1 ,NHK综合第二声道
+http://iptv.tvfix.org/hls/nhkg_v.m3u8
+#EXTINF:-1 ,NHK综合第二声道
+http://iptv.tvfix.org/hls/nhkg2.m3u8
+#EXTINF:-1 ,NHK综合第二声道
+http://iptv.tvfix.org/hls/nhkg_a2.m3u8
+#EXTINF:-1 ,NHK教育
+http://iptv.tvfix.org/hls/nhke.m3u8
+#EXTINF:-1 ,NHK教育
+http://iptv.tvfix.org/hls/nhke_v.m3u8
+#EXTINF:-1 ,NHK教育
+http://iptv.tvfix.org/hls/nhke_a1.m3u8
+#EXTINF:-1 ,NHK教育第二声道
+http://iptv.tvfix.org/hls/nhke_v.m3u8
+#EXTINF:-1 ,NHK教育第二声道
+http://iptv.tvfix.org/hls/nhke2.m3u8
+#EXTINF:-1 ,NHK教育第二声道
+http://iptv.tvfix.org/hls/nhke_a2.m3u8
+#EXTINF:-1 ,瞬间看地球
+http://iptv.tvfix.org/hls/earth.m3u8
+#EXTINF:-1 ,美亚电影台粤语
+http://iptv.tvfix.org/hls/mydy_a1.m3u8
+#EXTINF:-1 ,美亚电影台粤语
+http://iptv.tvfix.org/hls/mydy_v.m3u8
+#EXTINF:-1 ,美亚电影台粤语
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 ,美亚电影台国语
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 ,美亚电影台国语
+http://iptv.tvfix.org/hls/mydy_a2.m3u8
+#EXTINF:-1 ,天映经典粤语
+http://iptv.tvfix.org/hls/tyjd_v.m3u8
+#EXTINF:-1 ,天映经典粤语
+http://iptv.tvfix.org/hls/tyjd_a1.m3u8
+#EXTINF:-1 ,天映经典粤语
+http://iptv.tvfix.org/hls/tyjd.m3u8
+#EXTINF:-1 ,天映经典国语
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 ,天映经典国语
+http://iptv.tvfix.org/hls/tyjd_a2.m3u8
+#EXTINF:-1 ,animax
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-1 ,animax
+http://iptv.tvfix.org/hls/animax_v.m3u8
+#EXTINF:-1 ,animax
+http://iptv.tvfix.org/hls/animax_a1.m3u8
+#EXTINF:-1 ,animax第二声道
+http://iptv.tvfix.org/hls/animax2.m3u8
+#EXTINF:-1 ,animax第二声道
+http://iptv.tvfix.org/hls/animax_a2.m3u8
+#EXTINF:-1 ,hands up channel
+http://iptv.tvfix.org/hls/kid_v.m3u8
+#EXTINF:-1 ,hands up channel
+http://iptv.tvfix.org/hls/kid.m3u8
+#EXTINF:-1 ,hands up channel
+http://iptv.tvfix.org/hls/kid_a1.m3u8
+#EXTINF:-1 ,hands up channel第二声道
+http://iptv.tvfix.org/hls/kid2.m3u8
+#EXTINF:-1 ,hands up channel第二声道
+http://iptv.tvfix.org/hls/kid_a2.m3u8
+#EXTINF:-1 ,thrill
+http://iptv.tvfix.org/hls/thrill_v.m3u8
+#EXTINF:-1 ,thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 ,thrill
+http://iptv.tvfix.org/hls/thrill_a1.m3u8
+#EXTINF:-1 ,thrill第二声道
+http://iptv.tvfix.org/hls/thrill2.m3u8
+#EXTINF:-1 ,thrill第二声道
+http://iptv.tvfix.org/hls/thrill_a2.m3u8
+#EXTINF:-1 ,TVB经典台
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 ,TVB经典台
+http://iptv.tvfix.org/hls/tvbjd_v.m3u8
+#EXTINF:-1 ,TVB经典台
+http://iptv.tvfix.org/hls/tvbjd_a1.m3u8
+#EXTINF:-1 ,TVB为食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 ,TVB为食台
+http://iptv.tvfix.org/hls/tvbws_v.m3u8
+#EXTINF:-1 ,TVB为食台
+http://iptv.tvfix.org/hls/tvbws_a1.m3u8
+#EXTINF:-1 ,TVB为食台第二声道
+http://iptv.tvfix.org/hls/tvbws2.m3u8
+#EXTINF:-1 ,TVB为食台第二声道
+http://iptv.tvfix.org/hls/tvbws_a2.m3u8
+#EXTINF:-1 ,TVB星河频道
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 ,TVB星河频道
+http://iptv.tvfix.org/hls/tvbxh_v.m3u8
+#EXTINF:-1 ,TVB星河频道
+http://iptv.tvfix.org/hls/tvbxh_a1.m3u8
+#EXTINF:-1 ,TVB星河频道国语
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
+#EXTINF:-1 ,TVB星河频道国语
+http://iptv.tvfix.org/hls/tvbxh_a2.m3u8
+#EXTINF:-1 ,TVB功夫台
+http://iptv.tvfix.org/hls/tvbkf_v.m3u8
+#EXTINF:-1 ,TVB功夫台
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 ,TVB功夫台
+http://iptv.tvfix.org/hls/tvbkf_a1.m3u8
+#EXTINF:-1 ,TVB功夫台国语
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1 ,TVB功夫台国语
+http://iptv.tvfix.org/hls/tvbkf_a2.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 ,凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+#EXTINF:-1 ,凤凰中文
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 ,凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 ,凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,凤凰电影
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1 ,Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 ,Discovery
+http://iptv.tvfix.org/hls/discovery_v.m3u8
+#EXTINF:-1 ,Discovery
+http://iptv.tvfix.org/hls/discovery_a1.m3u8
+#EXTINF:-1 ,动物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 ,动物星球
+http://iptv.tvfix.org/hls/animal_v.m3u8
+#EXTINF:-1 ,动物星球
+http://iptv.tvfix.org/hls/animal_a1.m3u8
+#EXTINF:-1 ,lovenature4k
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1 ,lovenature4k
+http://iptv.tvfix.org/hls/lovenature4k_v.m3u8
+#EXTINF:-1 ,lovenature4k
+http://iptv.tvfix.org/hls/lovenature4k_a1.m3u8
+#EXTINF:-1 ,lovenature4k第二声道
+http://iptv.tvfix.org/hls/lovenature4k_a2.m3u8
+#EXTINF:-1 ,lovenature4k第二声道
+http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+#EXTINF:-1 ,国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 ,channelv
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 ,星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 ,starsports
+http://iptv.tvfix.org/hls/starsports.m3u8
